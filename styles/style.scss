@@ -1,6 +1,9 @@
 @import 'normalize', 'media', 'mixins', 'fonts', 'variables', 'utils', 'globals';
 
 @import 
+    'blocks/field',
+    'blocks/radios',
+    'blocks/radio',
     'blocks/burger-button',
     'blocks/grid',
     'blocks/button',
@@ -12,4 +15,15 @@
     'blocks/puddle-bg',
     'blocks/services',
     'blocks/service-card',
-    'blocks/banner';
+    'blocks/banner',
+    'blocks/studies',
+    'blocks/process',
+    'blocks/team',
+    'blocks/team-card',
+    'blocks/pagination',
+    'blocks/reviews',
+    'blocks/review-card',
+    'blocks/contact-us',
+    'blocks/soc1als',
+    'blocks/subscribe-form',
+    'blocks/footer';
